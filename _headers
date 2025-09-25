@@ -1,0 +1,11 @@
+/index.html
+  Cache-Control: public, max-age=3600
+
+/game.html
+  Cache-Control: public, max-age=3600
+
+/renpy.js
+  Cache-Control: public, max-age=2592000
+
+/*
+  Cache-Control: public, max-age=604800
